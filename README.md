@@ -246,4 +246,4 @@ This repository serves as the official landing page for Telegram Messenger. The 
 **Get the most recent version of Telegram Messenger today!**
 
 ---
-**Last updated:** 2026-09-11 23:06:28 UTC
+**Last updated:** 2026-09-12 03:59:55 UTC
